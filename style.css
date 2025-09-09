@@ -68,7 +68,8 @@ button.submit:hover {
   height: 100vh;
   margin: 0 clamp(10px, 3vw, 40px);
   /* gap: 20px; */
-  border: 1px solid red;
+  /* border: 1px solid red; */
+  box-shadow: 3px 0px 5px grey;
 }
 
 .container-right {
